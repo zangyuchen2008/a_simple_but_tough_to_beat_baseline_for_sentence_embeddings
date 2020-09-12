@@ -1,2 +1,3 @@
 you can copy and paste news directly into variable doc, and just run directly,
-notice: w2v and sif file need to be privided, sif file could be created base on the paper, which is easy to implement
+notice: w2v and sif file need to be privided, 
+notice: sif file is created based only on one specific document, pca is based also on all sentences in one specific document.
